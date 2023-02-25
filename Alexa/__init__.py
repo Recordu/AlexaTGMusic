@@ -1,7 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful Music Bot Property Of Lucifer Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
+# Rocks © @LORD_LUCIFER_1 © Lucifer
+# Owner LORD_LUCIFER_1
 # Harshit Sharma
 
 
