@@ -147,21 +147,21 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command("start") & filters.private & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://telegra.ph/file/75a0dee096c4570c57135.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ Lucifer sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ › : [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴀʟᴇxᴀ sᴇʀᴠᴇʀ](https://t.me/AsadSupport)
-┣★ sᴜᴘᴘᴏʀᴛ › : [ᴀʟᴇxᴀ ᴄʜᴀᴛ](https://t.me/Alexa_Help)
-┣★ ʀᴏᴄᴋsᴏᴘ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/Shayri_Music_Lovers)
-┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/HarshitSharma361)
+┣★ ᴄʀᴇᴀᴛᴏʀ › : [Lord Lucifer](https://t.me/Lucifer_Is_Star)
+┣★ ᴜᴘᴅᴀᴛᴇs › : [Lucifer sᴇʀᴠᴇʀ](https://t.me/lucibotz)
+┣★ sᴜᴘᴘᴏʀᴛ › : [Lucifer ᴄʜᴀᴛ](https://t.me/BhartiyaChattingGroup)
+┣★ ʀᴏᴄᴋsᴏᴘ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/wilderharley_650)
+┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/Sensei_Zoro)
 ┣★ ʜᴇʟᴘ › : ɴᴇᴇᴅ ʜᴇʟᴘ ʀᴜɴ /help
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Dr_Asad_Ali) ...
+ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Lucifer_Is_Star) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -184,14 +184,14 @@ async def useradd(_, message: Message):
 )
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo="https://telegra.ph/file/75a0dee096c4570c57135.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
                         "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞",
-                        url=f"https://t.me/Shayri_Music_Lovers",
+                        url=f"https://t.me/BhartiyaChattingGroup",
                     )
                 ]
             ]
@@ -200,7 +200,7 @@ async def useradd(_, message: Message):
 
 
 @app.on_message(
-    filters.command(["repo", "source"])
+    filters.command(["repo", "Land le lo bhenchod"])
     & filters.private
     & ~filters.group
     & ~filters.edited
@@ -213,7 +213,7 @@ async def useradd(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/Dr_Asad_Ali"
+                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/Lucifer_Is_Star"
                     )
                 ]
             ]
