@@ -5,6 +5,11 @@
   "keywords": [
   "python3",
   "telegram"
+  "bot",
+    "AlexaTgMusic",
+    "telegram-music-bot",
+    "telegram-bot",
+    "pyrogram"
   ],
   "stack": "container",
   "env": {
